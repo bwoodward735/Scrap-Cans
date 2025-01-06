@@ -1,0 +1,21 @@
+{
+  "Name": "Cooking Pot to Scrap",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_CookingPot",
+      "Count": 1
+    }
+  ],
+  "KeroseneLitersRequired": 0,
+  "RequiredTool": "GEAR_Hammer",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_ScrapMetal",
+  "CraftedResultCount": 4,
+  "DurationMinutes": 60,
+  "CraftingAudio": "PLAY_CraftingMetal",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

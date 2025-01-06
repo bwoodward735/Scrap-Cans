@@ -1,0 +1,21 @@
+{
+  "Name": "New Cans",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_ScrapMetal",
+      "Count": 3
+    }
+  ],
+  "KeroseneLitersRequired": 0,
+  "RequiredTool": "GEAR_Hammer",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Forge",
+  "RequiresLitFire": true,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_RecycledCan",
+  "CraftedResultCount": 4,
+  "DurationMinutes": 80,
+  "CraftingAudio": "PLAY_CraftingForge",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

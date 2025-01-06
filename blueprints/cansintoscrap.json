@@ -1,0 +1,21 @@
+{
+  "Name": "Cans to Scrap",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_RecycledCan",
+      "Count": 4
+    }
+  ],
+  "KeroseneLitersRequired": 0,
+  "RequiredTool": "",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_ScrapMetal",
+  "CraftedResultCount": 3,
+  "DurationMinutes": 10,
+  "CraftingAudio": "",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}
