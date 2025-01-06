@@ -14,7 +14,7 @@
 
 | Version | Downloads | License | Contributors |
 | :-----: | :-------: | :-----: | :-----------: |
-| ![](https://img.shields.io/github/v/release/bwoodward735/Scrap-Cans) | ![](https://img.shields.io/github/downloads/bwoodward735/Scrap-Cans/total) | ![](https://img.shields.io/github/license/bwoodward735/Scrap-Cans) | ![](https://img.shields.io/github/contributors/bwoodward735/Scrap-Cans) |
+| ![](https://img.shields.io/github/v/release/bwoodward735/Scrap-Cans?sort=semver&display_name=release&style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbwoodward735%2Scrap-Cans%2Freleases%2Flatest) | ![](https://img.shields.io/github/downloads/bwoodward735/Scrap-Cans/total?style=for-the-badge) | ![](https://img.shields.io/github/license/bwoodward735/Scrap-Cans) | ![](https://img.shields.io/github/contributors/bwoodward735/Scrap-Cans?style=for-the-badge) |
 
 </div>
 
