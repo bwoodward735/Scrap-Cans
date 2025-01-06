@@ -68,3 +68,4 @@ This should contain a list of everyone who has ever helped out with the mod, bro
 Thanks to everyone on the TLD modders' discord.
 ## Special Thanks
 * ttr, for the original can recycling mod.
+* The Illusion for the Readme template.
