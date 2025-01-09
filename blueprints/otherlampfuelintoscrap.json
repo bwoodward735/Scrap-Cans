@@ -1,0 +1,21 @@
+{
+  "Name": "Other Lamp Fuel Cans to Scrap",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_LampFuelFull",
+      "Count": 2
+    }
+  ],
+  "KeroseneLitersRequired": 0,
+  "RequiredTool": "",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_ScrapMetal",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 5,
+  "CraftingAudio": "",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}
